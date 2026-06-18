@@ -377,7 +377,7 @@
         ".postcssrc.json": "pcss",
         ".postcssrc.yaml": "pcss",
         ".postcssrc.yml": "pcss",
-        "pyproject.toml": "python",
+        "pyproject.toml": "toml",
         "requirements.txt": "python",
         "requirements-dev.txt": "python",
         "requirements-test.txt": "python",
